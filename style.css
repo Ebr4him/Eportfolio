@@ -89,13 +89,14 @@ section:nth-child(even) {
 
 .section__title {
   margin-bottom: 20px;
+  margin-right: 12px;
 }
 
 .section__titles {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-right: 12px;
+  
 }
 
 /* NAVIGATION BAR */
