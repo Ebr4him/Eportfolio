@@ -324,7 +324,6 @@ nav {
   border-radius: 20px;
   overflow: hidden;
   position: relative;
-  padding: 182px;
 }
 .project__wrapper:before {
   content: "";
